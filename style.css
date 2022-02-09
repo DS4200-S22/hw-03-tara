@@ -12,8 +12,9 @@ p {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    padding: auto;
+    padding: 15px;
     align-items: auto;
+    gap: 15px;
 }
 .image-container div {
     border: 8px solid black;
