@@ -10,9 +10,11 @@ p {
 .image-container {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    padding: auto;
+    align-items: auto;
 }
 .image-container div {
-    border-width: 3px;
-    border-style: solid;
-    border-color: black;
+    border: 8px solid black;
 }
