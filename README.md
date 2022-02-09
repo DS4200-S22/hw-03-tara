@@ -1,17 +1,17 @@
 # hw-03
 hw-03 - HTML+CSS &amp; Marks+Channels
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: * [hw-03 webpage](https://ds4200-s22.github.io/hw-03-tara/)
 
 ## Purpose
 
-The purpose of this assignment is practice more advanced HTML and CSS, and to practive decomposing a visualization into marks and channels.  
+The purpose of this assignment is practice more advanced HTML and CSS, and to practice decomposing a visualization into marks and channels.  
 
 ## Instructions
 
 1. Background material to support this assignment is provided below in the Resources section.  
 
-1. You can find a reference for what your final webpage should look like and how it should behanve in the "reference" folder. 
+1. You can find a reference for what your final webpage should look like and how it should behave in the "reference" folder. 
 
 1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[insert your clickable hyperlink here]`. 
 
