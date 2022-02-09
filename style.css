@@ -4,3 +4,7 @@
 h1 {
     text-align: center;
 }
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+}
