@@ -6,6 +6,7 @@ h1 {
 }
 p {
     padding: 15px;
+    max-width: fit-content;
 }
 .flex-container {
     display: flex;
@@ -13,7 +14,7 @@ p {
     flex-direction: row;
     justify-content: center;
     padding: 15px;
-    align-items: auto;
+    align-content: auto;
     gap: 15px;
 }
 .flex-container div {
@@ -30,4 +31,14 @@ p {
 }
 .rectangle:hover {
     fill: darkseagreen;
+}
+h3 {
+    text-align: center;
+}
+#links {
+    text-align: center;
+}
+#bullets {
+    display: inline-block;
+    text-align: left;
 }
